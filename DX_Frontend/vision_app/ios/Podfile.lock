@@ -1,0 +1,67 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_sound (9.28.0):
+    - Flutter
+    - flutter_sound_core (= 9.28.0)
+  - flutter_sound_core (9.28.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - sound_stream (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_sound (from `.symlinks/plugins/flutter_sound/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - sound_stream (from `.symlinks/plugins/sound_stream/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - flutter_sound_core
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
+  Flutter:
+    :path: Flutter
+  flutter_sound:
+    :path: ".symlinks/plugins/flutter_sound/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  sound_stream:
+    :path: ".symlinks/plugins/sound_stream/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+
+SPEC CHECKSUMS:
+  audio_session: 9bb7f6c970f21241b19f5a3658097ae459681ba0
+  camera_avfoundation: 5675ca25298b6f81fa0a325188e7df62cc217741
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_sound: b9236a5875299aaa4cef1690afd2f01d52a3f890
+  flutter_sound_core: 427465f72d07ab8c3edbe8ffdde709ddacd3763c
+  path_provider_foundation: bb55f6dbba17d0dccd6737fe6f7f34fbd0376880
+  permission_handler_apple: 4ed2196e43d0651e8ff7ca3483a069d469701f2d
+  sound_stream: 33d2b4cf6b43dc2bb7973be742b4704bd9c1f919
+  video_player_avfoundation: dd410b52df6d2466a42d28550e33e4146928280a
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2
