@@ -22,3 +22,6 @@
 ### Java 백엔드
 - `SpringBoot/demo`: Java 기반 API 서버(앱 ↔ Python 서버 연결).
 
+### 영상 생성/업로드 유틸 (generate 폴더)
+- `generate/generate.py`: (Sora) 대화 히스토리 기반 프롬프트 생성 → 영상 생성 → Firebase 업로드까지 이어지는 메인 스크립트.
+- `generate/Geminigenerate.py`: (Veo)대화 히스토리 기반 프롬프트 생성 → 영상 생성 → Firebase 업로드까지 이어지는 메인 스크립트.
